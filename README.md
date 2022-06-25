@@ -36,6 +36,7 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 - Here it's easy to see how riding patterns for our users by time of day comparing weekends to weekdays.  For Subscribers, throughout the workweek, have a very clear spike in usage during commuting hours and relatively calm and spread out activity through the weekend.  Customers on the other hand, steadily increase their riding as the hours of the day progress up to 5pm before declining during the weekdays.  Contrarily, on the weekend, their activity doesn't decline but we see more riding earlier in the day with the peak 11am - 5pm.
 
 **Overall Weekly Activity by Hour**
+
 ![Screen Shot 2022-06-25 at 5 49 17 PM](https://user-images.githubusercontent.com/100544761/175792633-7af08d4b-28ad-47c0-987c-54ff24e3f8a2.png)
 - Similar information is conveyed in the Highlight table showing the significance for resource availability during weekday commuting hours and most of the day Saturday.  Clearly, any attempts at maintenance should be scheduled outside of peak hours.
 
