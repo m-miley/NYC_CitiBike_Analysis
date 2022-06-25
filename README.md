@@ -11,6 +11,6 @@ Tableau Analysis to Visualize data from New York City's Bike Share program, Citi
 
 ## Results
 
-[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619/viz/NYCCitiBikeAnalysis-DUStory1/Story1)
-[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619/viz/NYCCityBike-DUStory2/Story2)
-[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619#!/)
+[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619/viz/NYCCitiBikeAnalysis-DUStory1/Story1)<br>
+[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619/viz/NYCCityBike-DUStory2/Story2)<br>
+[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619#!/)<br>
