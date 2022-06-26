@@ -41,7 +41,7 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 <br/><br/>
 
 **Peak Hours by User Type and Weekend vs. Weekday**
-![Screen Shot 2022-06-26 at 3 31 37 PM](https://user-images.githubusercontent.com/100544761/175832803-d50c7b01-8ded-40c3-8b17-f521558ddcf0.png)
+![Screen Shot 2022-06-26 at 3 40 45 PM](https://user-images.githubusercontent.com/100544761/175833056-1103cf62-348d-4404-804a-2b2296e0f352.png)
 - Here it's easy to see how riding patterns for our users by time of day comparing weekends to weekdays.  For Subscribers, throughout the workweek, have a very clear spike in usage during commuting hours and relatively calm and spread out activity through the weekend.  Customers on the other hand, steadily increase their riding as the hours of the day progress up to 5pm before declining during the weekdays.  Contrarily, on the weekend, their activity begins early and doesn't decline during daylight hours with the peak between 11am - 5pm.
 <br/><br/>
 
@@ -101,6 +101,6 @@ Thereafter, in regards to deeper analysis and additional visualizations, I would
 
 Let's keep this going, the more data, the better!
 
-#### Contact
+### Contact
 
-**Email**: mrmileyy@gmail.com
+Email: mrmileyy@gmail.com
