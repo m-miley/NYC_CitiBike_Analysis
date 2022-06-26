@@ -26,7 +26,7 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 <br/><br/>
 
 **Dashboard**
-![Screen Shot 2022-06-25 at 5 34 24 PM](https://user-images.githubusercontent.com/100544761/175792353-337e2876-1d23-469d-8306-481a471bce77.png)
+![Screen Shot 2022-06-26 at 3 31 18 PM](https://user-images.githubusercontent.com/100544761/175832767-4be18bef-8919-4203-a0b3-21245b0bfea0.png)
 - Overview of snapshots explained in following storyline.  It can be interactively filtered by clicking on the Gender Breakdown Pie Chart.  The most significant insights that can only be discovered from this visual is filtering the start/end locations by clicking a start location bubble.  This shows the ending locations for each top start location.  With further data manipulation with SQL, or perhaps a calculated field, we can see which stations end with more bikes than they start with to help plan re-distribution schedules to avoid overcrowding and undersupplied stations.  This will maximize user experience when interacting with our services.
 <br/><br/>
 
@@ -36,12 +36,12 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 <br/><br/>
 
 **Subscriber and Gender Breakdown in Ride Count, Percent, and Avg Trip Duration**
-![Screen Shot 2022-06-25 at 5 40 19 PM](https://user-images.githubusercontent.com/100544761/175792476-de1ae53c-907e-4590-bd30-aa8ce5000478.png)
+![Screen Shot 2022-06-26 at 3 34 56 PM](https://user-images.githubusercontent.com/100544761/175832859-33a1889c-ba69-44aa-9d73-c03eb4e4ef90.png)
 - Next, we get a clear view of which genders are using our resources in exact proportions and for how long they ride.  Male Subscribers do a majority of the riding at 58.6 percent, however, Females generally spend more time per trip.
 <br/><br/>
 
 **Peak Hours by User Type and Weekend vs. Weekday**
-![Screen Shot 2022-06-25 at 5 43 28 PM](https://user-images.githubusercontent.com/100544761/175792536-4460fbd4-26f0-489d-bad7-46d1f2778344.png)
+![Screen Shot 2022-06-26 at 3 31 37 PM](https://user-images.githubusercontent.com/100544761/175832803-d50c7b01-8ded-40c3-8b17-f521558ddcf0.png)
 - Here it's easy to see how riding patterns for our users by time of day comparing weekends to weekdays.  For Subscribers, throughout the workweek, have a very clear spike in usage during commuting hours and relatively calm and spread out activity through the weekend.  Customers on the other hand, steadily increase their riding as the hours of the day progress up to 5pm before declining during the weekdays.  Contrarily, on the weekend, their activity begins early and doesn't decline during daylight hours with the peak between 11am - 5pm.
 <br/><br/>
 
@@ -51,7 +51,7 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 <br/><br/>
 
 **Birth Year Subscriber Histogram**
-![Screen Shot 2022-06-25 at 5 52 56 PM](https://user-images.githubusercontent.com/100544761/175792685-64ec9eae-0640-4f76-9ec5-1dde3a83d6f8.png)
+![Screen Shot 2022-06-26 at 3 31 51 PM](https://user-images.githubusercontent.com/100544761/175832818-ce9ffd15-b91d-45af-8182-247a7f47317c.png)
 - To better understand our user base, we can clearly see that the largest subscriber groups are born between 1980-1995.  
 <br/><br/>
 
@@ -100,3 +100,7 @@ Given more time, with a broader data set including all the months of the year an
 Thereafter, in regards to deeper analysis and additional visualizations, I would like to create a calculated field to determine the rate of accumulation / bike loss at each station to record which stations should be actively monitored for redistributing / resupplying.  I would also like data on the specific bike models being used and could visualize data based on that to help restructure our menu.  Users with shorter trips, typically male commuting subscribers, would likely like a light frame, thin tires, and short wheel base that can zip around the city quickly, aka road bike.  Touring bikes to assist those with more baggage and longer trips.  Electric bikes for tourists and customers who wish for leisurely travel or with physical disability.  Scooters for the non-pedalers.
 
 Let's keep this going, the more data, the better!
+
+#### Contact
+
+**Email**: mrmileyy@gmail.com
