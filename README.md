@@ -100,6 +100,7 @@ Given more time, with a broader data set including all the months of the year an
 Thereafter, in regards to deeper analysis and additional visualizations, I would like to create a calculated field to determine the rate of accumulation / bike loss at each station to record which stations should be actively monitored for redistributing / resupplying.  I would also like data on the specific bike models being used and could visualize data based on that to help restructure our menu.  Users with shorter trips, typically male commuting subscribers, would likely like a light frame, thin tires, and short wheel base that can zip around the city quickly, aka road bike.  Touring bikes to assist those with more baggage and longer trips.  Electric bikes for tourists and customers who wish for leisurely travel or with physical disability.  Scooters for the non-pedalers.
 
 Let's keep this going, the more data, the better!
+<br/><br/>
 
 ### Contact
 
