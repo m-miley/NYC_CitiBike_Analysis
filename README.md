@@ -16,6 +16,8 @@ Tableau Analysis to Visualize data from New York City's Bike Share program, Citi
 [My Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619#!/)<br>
 <br/>
 
+## Results
+
 ## Story 1
 
 Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions identifying the customer base and their riding habbits and patterns.
