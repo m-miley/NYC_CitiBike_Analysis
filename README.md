@@ -1,6 +1,6 @@
 # NYC_CitiBike_Analysis
 
-Resources 
+- Resources 
     - Tableau
     - Extract Files: NYC_CitiBike_Challenge.csv, NYC_CitiBike_Challenge_datetime.csv
 
