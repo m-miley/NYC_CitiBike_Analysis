@@ -37,17 +37,17 @@ Story 1 Walks us through "Where?", "Who?, "When?", and "What Age?" questions ide
 
 **Subscriber and Gender Breakdown in Ride Count, Percent, and Avg Trip Duration**
 ![Screen Shot 2022-06-25 at 5 40 19 PM](https://user-images.githubusercontent.com/100544761/175792476-de1ae53c-907e-4590-bd30-aa8ce5000478.png)
-- Next, we get a clear view of which genders are using our resources in exact proportions and for how long they ride.  Male Subscribers do a majority of the riding at 58.1 percent, however, Females generally spend more time per trip.
+- Next, we get a clear view of which genders are using our resources in exact proportions and for how long they ride.  Male Subscribers do a majority of the riding at 58.6 percent, however, Females generally spend more time per trip.
 <br/><br/>
 
 **Peak Hours by User Type and Weekend vs. Weekday**
 ![Screen Shot 2022-06-25 at 5 43 28 PM](https://user-images.githubusercontent.com/100544761/175792536-4460fbd4-26f0-489d-bad7-46d1f2778344.png)
-- Here it's easy to see how riding patterns for our users by time of day comparing weekends to weekdays.  For Subscribers, throughout the workweek, have a very clear spike in usage during commuting hours and relatively calm and spread out activity through the weekend.  Customers on the other hand, steadily increase their riding as the hours of the day progress up to 5pm before declining during the weekdays.  Contrarily, on the weekend, their activity doesn't decline but we see more riding earlier in the day with the peak 11am - 5pm.
+- Here it's easy to see how riding patterns for our users by time of day comparing weekends to weekdays.  For Subscribers, throughout the workweek, have a very clear spike in usage during commuting hours and relatively calm and spread out activity through the weekend.  Customers on the other hand, steadily increase their riding as the hours of the day progress up to 5pm before declining during the weekdays.  Contrarily, on the weekend, their activity begins early and doesn't decline during daylight hours with the peak between 11am - 5pm.
 <br/><br/>
 
 **Overall Weekly Activity by Hour** <br>
 ![Screen Shot 2022-06-25 at 5 49 17 PM](https://user-images.githubusercontent.com/100544761/175792633-7af08d4b-28ad-47c0-987c-54ff24e3f8a2.png)
-- Similar information is conveyed in the Highlight table showing the significance for resource availability during weekday commuting hours and most of the day Saturday.  Clearly, any attempts at maintenance should be scheduled outside of peak hours.
+- Similar information is conveyed in the Highlight Table showing the significance for resource availability during weekday commuting hours and most of the day Saturday.  Clearly, any attempts at maintenance or re-distribution should be scheduled outside of peak hours.
 <br/><br/>
 
 **Birth Year Subscriber Histogram**
@@ -67,12 +67,12 @@ Story 2 Walks us through finer detail of trip duration patterns, Overall and by 
 
 **Overall Trip Duration by Number of Rides per Minute**
 ![Screen Shot 2022-06-25 at 6 36 15 PM](https://user-images.githubusercontent.com/100544761/175793596-3bb4de7d-3592-4216-89f4-9b616a907c08.png)
-- From this graph, it's clear that highest ride counts are 4-7 minutes long overall.  However, the average ride duration is still 17.5, calculated in another sheet.
+- From this graph, it's clear that highest ride counts are 4-7 minutes long overall, mode is 5.  However, the average ride duration is still 17.5, calculated in another sheet.
 <br/><br/>
 
 **Trip Duration by Gender**
 ![Screen Shot 2022-06-25 at 6 38 38 PM](https://user-images.githubusercontent.com/100544761/175793648-568d3140-2c61-4876-8e7b-b06597f4c5f7.png)
-- A finer look at how genders compare with trip with ride count and trip duration.  They all seem to follow a similar pattern overall, peaking near 5 minutes before dropping off. However, female and unknown genders declines more gradually than males.
+- A finer look at how genders compare trips to ride count and trip duration.  They all seem to follow a similar pattern overall, peaking near 5 minutes before dropping off. However, female and unknown genders declines more gradually than males.
 <br/><br/>
 
 **Weekly Trips by User Type by Gender**
