@@ -104,7 +104,7 @@ Let's keep this going, the more data, the better!
 
 ### Contact
 
-Email: mrmileyy@gmail.com
+mrmileyy@gmail.com
 <br/>
 [LinkedIn](https://www.linkedin.com/in/mileymarshall/)
 <br/>
