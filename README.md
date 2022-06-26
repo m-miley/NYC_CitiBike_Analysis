@@ -105,3 +105,7 @@ Let's keep this going, the more data, the better!
 ### Contact
 
 Email: mrmileyy@gmail.com
+[LinkedIn](https://www.linkedin.com/in/mileymarshall/)
+[Portfolio](https://m-miley.github.io/portfolio/)
+
+
