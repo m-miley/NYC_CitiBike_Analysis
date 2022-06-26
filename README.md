@@ -9,11 +9,11 @@
 
 Tableau Analysis to Visualize data from New York City's Bike Share program, CitiBike, for the month of August with an intent to present to investors for a startup implementation in Des Moines, Iowa. Similar business strategies can be applied. The most practical insights drawn from this analysis concern resource availability and usage, customer base demographics and user type, and trip duration and distribution patterns.
 
-## Results
+## Links
 
-[Tableau Public Link to Workbook Story 1](https://public.tableau.com/app/profile/marshall3619/viz/NYCCitiBikeAnalysis-DUStory1/Story1)<br>
-[Tableau Public Link to Workbook Story 2](https://public.tableau.com/app/profile/marshall3619/viz/NYCCityBike-DUStory2/Story2)<br>
-[Tableau Public Link to my Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619#!/)<br>
+[Tableau Public Workbook Story 1](https://public.tableau.com/app/profile/marshall3619/viz/NYCCitiBikeAnalysis-DUStory1/Story1)<br>
+[Tableau Public Workbook Story 2](https://public.tableau.com/app/profile/marshall3619/viz/NYCCityBike-DUStory2/Story2)<br>
+[My Tableau Public Profile](https://public.tableau.com/app/profile/marshall3619#!/)<br>
 <br/>
 
 ## Story 1
